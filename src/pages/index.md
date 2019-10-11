@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Welcome to My Website
-image: /img/home-jumbotron.jpg
-heading: Dennis Liu Chi Kuan
-subheading: Support sustainable farming while enjoying a cup
+image: /img/homepageimg1.jpg
+heading: heading
+subheading: Dennis Liu Chi Kuan/Software Engineer/Radiographer
 mainpitch:
-  title: Why Kaldi
+  title: Get to know about Me
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
