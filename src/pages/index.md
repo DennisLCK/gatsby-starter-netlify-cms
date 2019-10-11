@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Welcome to My Website
+title: Dennis Liu Chi Kuan/Software Engineer/Radiographer
 image: /img/homepageimg1.jpg
 heading: heading
-subheading: Dennis Liu Chi Kuan/Software Engineer/Radiographer
+subheading: Welcome to My Website
 mainpitch:
   title: Get to know about Me
   description: >
