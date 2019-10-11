@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Welcome to My Website
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Dennis Liu Chi Kuan
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
